@@ -1,191 +1,172 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0F3460&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Shavi+Kumari;Frontend+Developer+%7C+Team+Lead;React.js+%7C+Next.js+%7C+JavaScript;Building+Fast%2C+Scalable+UIs+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Hi%20There%2C%20I%27m%20Shavi%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+React.js+%26+Next.js;WordPress+to+Product-Based+Companies;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
+</a>
 
 <br/>
 
-**Frontend Developer · Team Lead · 3 Years Experience**  
-*React.js · Next.js 14 · JavaScript ES6+ · Tailwind CSS · Redux · Zustand*
+![Profile Views](https://komarev.com/ghpvc/?username=Shavirajput&color=8e2de2&style=for-the-badge&label=PROFILE%20VIEWS)
+![Status](https://img.shields.io/badge/Status-Available%20for%20Immediate%20Joining-brightgreen?style=for-the-badge)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shavi-kumari-a60896242)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F3460?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shavirajput0761@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shavirajput)
-
-</div>
-
----
-
-## 👩‍💻 About Me
-
-```javascript
-const shavi = {
-  role        : "Frontend Developer & Team Lead",
-  company     : "Adyasof Technology, Bengaluru 🇮🇳",
-  experience  : "3 years",
-  education   : "MCA — Jain University (Merit Scholarship 2024)",
-  focus       : ["React.js", "Next.js 14", "Performance Optimization"],
-  currentGoal : "Land a high-impact remote frontend role 🚀",
-  funFact     : "I reduced bundle size by 25% and load time by 40% — in the same sprint 💪"
-};
-```
-
----
-
-## 🏆 Impact at a Glance
-
-<div align="center">
-
-| Metric | Achievement |
-|--------|-------------|
-| ⚡ Page Load Improvement | **40%** via Next.js 14 App Router migration |
-| 📦 Bundle Size Reduction | **25%** via Redux → Zustand refactor |
-| 🚀 Feature Delivery Speed | **35% faster** with modular component architecture |
-| 📅 Sprint Consistency | **30% improvement** as Team Lead |
-| 🧩 Component Library | **20+ reusable components** across products |
-| 👥 User Engagement | **+25%** on healthcare appointment platform |
+<a href="mailto:shavikumari07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!-- TODO: swap # for your real LinkedIn URL -->
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://shavirajput.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+<a href="https://github.com/Shavirajput"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+### 👩‍💻 About Me
 
-<div align="center">
+- 🔭 Currently building production **React.js & Next.js** applications at **Adyasoft Technologies**
+- 🌱 Leveling up in **Next.js App Router, System Design & DSA**
+- 💼 Transitioning from WordPress/Frontend into **product-based React/Next.js roles**
+- 👯 Open to collaborating on **React/Next.js open-source projects**
+- 💬 Ask me about **React, Next.js, JavaScript, Redux, REST APIs, WordPress**
+- 📫 Reach me at **shavikumari07@gmail.com**
+- ⚡ Fun fact: started out customizing WordPress themes — now I ship full React/Next.js products
 
-**Frontend Core**  
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br/>
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Styling**  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**State Management**  
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+**Frontend**
 
-**Backend & APIs**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**DevOps & Tools**  
+**Cloud, DevOps & Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker_(Basics)-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_(Basics)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🔐 Security Vulnerability Kanban Dashboard
-> **Next.js · React · JWT Auth · Drag & Drop**
-
-A high-concurrency vulnerability tracking dashboard with real-time risk management for enterprise security teams.
-
-- 🔒 JWT sign-in/sign-up with protected routes
-- 🖱️ Drag-and-drop workflow: **Open → In Progress → Resolved**
-- ⚡ **40% reduction** in data latency
-- 🧩 Modular Card/Column/Board component architecture
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0F3460?style=flat-square&logo=vercel&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/Source_Code-171515?style=flat-square&logo=github&logoColor=white)](#)
-
----
-
-### 🏠 TenantScore — Property Management Dashboard
-> **React · Tailwind CSS · M-Pesa API · Netlify**
-
-Full-featured tenant scoring platform enabling landlords to assess tenant reliability in real time.
-
-- 📊 Dynamic score dashboard (Payment History · Tenancy · Reviews)
-- 💳 M-Pesa wallet integration with real-time balance & rent alerts
-- 📋 Score Boost feature with actionable engagement checklist
-- 📱 Responsive multi-section layout with View All pagination
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00B09B?style=flat-square&logo=netlify&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/Source_Code-171515?style=flat-square&logo=github&logoColor=white)](#)
-
----
-
-### 🎬 CineVerse — Movie & TV Discovery Platform
-> **React · TMDB API · Tailwind CSS · Netlify**
-
-Full-featured movie and TV show discovery platform with trending, top-rated, and genre-based browsing.
-
-- 🔍 Dynamic search with lazy image loading
-- 🎭 Trending · Top-Rated · Genre-based browsing (TMDB REST API)
-- 📱 Fully responsive across mobile, tablet, and desktop
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-E94560?style=flat-square&logo=netlify&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/Source_Code-171515?style=flat-square&logo=github&logoColor=white)](#)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shavirajput&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shavirajput&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shavirajput&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🎯 What I'm Currently Doing
-
-- 🔥 **40-Day Sprint** — Transitioning to high-package React/Next.js remote roles
-- 📚 **Learning** — TypeScript (advanced patterns), DSA, System Design
-- 🏗️ **Building** — AI-powered frontend projects with Claude & Cursor
-- 🎓 **Studying** — MCA at Jain University (Merit Scholarship, 2024–2026)
-
----
-
-## 💼 Work Experience Highlights
-
-**🏢 Adyasof Technology** *(Team Lead · Jan 2025 – Present)*
-> Led Next.js 14 migration · Built 20+ component library · Promoted to Team Lead
-
-**🏥 RaphaCure** *(Frontend Developer · Feb 2023 – Dec 2024)*
-> Healthcare web apps · JWT/RBAC auth · Redux state management · 25% load time reduction
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-I am open to **remote frontend roles** worldwide and **Bengaluru-based opportunities**.  
-If you are building something great with React or Next.js, let's talk!
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shavi-kumari-a60896242)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shavirajput0761@gmail.com)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shavirajput&color=0f3460&style=flat-square&label=Profile+Views)
+### 💼 Experience
 
----
+**Web Developer** · Adyasoft Technologies Inc. · *Feb 2025 – Present*
+Shipped 30+ production web apps; cut page load time 35%; reduced production issues 40% via Git-based collaboration with designers and QA.
 
-*"Clean code, fast UIs, measurable impact — that's the standard I hold myself to."*  
-— Shavi Kumari
+**Frontend Developer Intern** · COMX Technology · *Sep 2024 – Jan 2025*
+Built 3 React.js apps with Redux/Context API; route-based lazy loading cut load time 30%; led a healthcare platform that lifted engagement 25%.
+
+**Frontend Developer Intern** · RaphaCure · *May 2024 – Aug 2024*
+Delivered 2 production releases per quarter; implemented JWT auth with role-based access control, cutting unauthorized access attempts 45%.
+
+<br/>
+
+### 🚀 Featured Projects
+
+#### 🎬 React Movie & TV Discovery Platform
+TMDB REST API integration with dynamic search and lazy-loaded images (−32% image payload); responsive Tailwind CSS UI deployed on Netlify (−27% page load time).
+
+`React` `Tailwind CSS` `TMDB API` `Netlify`
+
+<!-- TODO: replace # with your real live demo & repo links -->
+[🔗 Live Demo](#) · [📦 Source Code](#)
+
+#### 📊 Next.js Vulnerability Kanban Dashboard
+Modular Card/Column/Board architecture in React & Next.js with JWT-protected routes and drag-and-drop across 3 workflow stages; real-time tracking on Vercel cut data latency 40%.
+
+`Next.js` `React` `JWT` `Drag & Drop` `Vercel`
+
+<!-- TODO: replace # with your real live demo & repo links -->
+[🔗 Live Demo](#) · [📦 Source Code](#)
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shavirajput&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Shavirajput&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shavirajput&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Shavirajput&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</div>
+
+<br/>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Shavirajput/Shavirajput/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
+
+<details>
+<summary>⚙️ One-time setup to activate the snake animation</summary>
+<br/>
+
+Save this as `.github/workflows/snake.yml` in this same repo and push once — it regenerates daily:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Shavirajput
+          outputs: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+</details>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" width="100%"/>
+
+**Thanks for stopping by — let's build something great together! 🚀**
 
 </div>
